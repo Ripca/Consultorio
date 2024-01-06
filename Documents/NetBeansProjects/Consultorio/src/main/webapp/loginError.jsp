@@ -9,6 +9,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
+            <link rel="icon" sizes="16x16" type="image/png" href="img/favicon.png" />
+
 
     <title>Login Consultorio</title>
 
