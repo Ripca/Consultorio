@@ -1,0 +1,39 @@
+M:\Proyecto de Nivelacion\Proyecto de Nivelacion\bin\Debug\Proyecto de Nivelacion.exe.config
+M:\Proyecto de Nivelacion\Proyecto de Nivelacion\bin\Debug\Proyecto de Nivelacion.exe
+M:\Proyecto de Nivelacion\Proyecto de Nivelacion\bin\Debug\Proyecto de Nivelacion.pdb
+M:\Proyecto de Nivelacion\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.csprojResolveAssemblyReference.cache
+M:\Proyecto de Nivelacion\Proyecto de Nivelacion\obj\Debug\WindowsFormsApplication1.frmMenuGastronomico.resources
+M:\Proyecto de Nivelacion\Proyecto de Nivelacion\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Proyecto de Nivelacion\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.csproj.GenerateResource.Cache
+M:\Proyecto de Nivelacion\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.exe
+M:\Proyecto de Nivelacion\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.pdb
+C:\Users\josue\Desktop\Proyecto de Nivelacion\Proyecto de Nivelacion\bin\Debug\Proyecto de Nivelacion.exe.config
+C:\Users\josue\Desktop\Proyecto de Nivelacion\Proyecto de Nivelacion\bin\Debug\Proyecto de Nivelacion.exe
+C:\Users\josue\Desktop\Proyecto de Nivelacion\Proyecto de Nivelacion\bin\Debug\Proyecto de Nivelacion.pdb
+C:\Users\josue\Desktop\Proyecto de Nivelacion\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\Proyecto de Nivelacion\Proyecto de Nivelacion\obj\Debug\WindowsFormsApplication1.frmMenuGastronomico.resources
+C:\Users\josue\Desktop\Proyecto de Nivelacion\Proyecto de Nivelacion\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\josue\Desktop\Proyecto de Nivelacion\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.csproj.GenerateResource.cache
+C:\Users\josue\Desktop\Proyecto de Nivelacion\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\Proyecto de Nivelacion\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.exe
+C:\Users\josue\Desktop\Proyecto de Nivelacion\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.pdb
+C:\Users\josue\Desktop\Menu_Gastronomico\Proyecto de Nivelacion\bin\Debug\Proyecto de Nivelacion.exe.config
+C:\Users\josue\Desktop\Menu_Gastronomico\Proyecto de Nivelacion\bin\Debug\Proyecto de Nivelacion.exe
+C:\Users\josue\Desktop\Menu_Gastronomico\Proyecto de Nivelacion\bin\Debug\Proyecto de Nivelacion.pdb
+C:\Users\josue\Desktop\Menu_Gastronomico\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\Menu_Gastronomico\Proyecto de Nivelacion\obj\Debug\WindowsFormsApplication1.frmMenuGastronomico.resources
+C:\Users\josue\Desktop\Menu_Gastronomico\Proyecto de Nivelacion\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\josue\Desktop\Menu_Gastronomico\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.csproj.GenerateResource.cache
+C:\Users\josue\Desktop\Menu_Gastronomico\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\Menu_Gastronomico\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.exe
+C:\Users\josue\Desktop\Menu_Gastronomico\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.pdb
+C:\Users\josue\Desktop\Menu_Gastronomico\Menu_Gastronomico\Proyecto de Nivelacion\bin\Debug\Proyecto de Nivelacion.exe.config
+C:\Users\josue\Desktop\Menu_Gastronomico\Menu_Gastronomico\Proyecto de Nivelacion\bin\Debug\Proyecto de Nivelacion.exe
+C:\Users\josue\Desktop\Menu_Gastronomico\Menu_Gastronomico\Proyecto de Nivelacion\bin\Debug\Proyecto de Nivelacion.pdb
+C:\Users\josue\Desktop\Menu_Gastronomico\Menu_Gastronomico\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\Menu_Gastronomico\Menu_Gastronomico\Proyecto de Nivelacion\obj\Debug\WindowsFormsApplication1.frmMenuGastronomico.resources
+C:\Users\josue\Desktop\Menu_Gastronomico\Menu_Gastronomico\Proyecto de Nivelacion\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\josue\Desktop\Menu_Gastronomico\Menu_Gastronomico\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.csproj.GenerateResource.cache
+C:\Users\josue\Desktop\Menu_Gastronomico\Menu_Gastronomico\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\Menu_Gastronomico\Menu_Gastronomico\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.exe
+C:\Users\josue\Desktop\Menu_Gastronomico\Menu_Gastronomico\Proyecto de Nivelacion\obj\Debug\Proyecto de Nivelacion.pdb
